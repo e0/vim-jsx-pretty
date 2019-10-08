@@ -17,7 +17,7 @@ Inspiration                                       |vim-jsx-pretty-inspiration|
 ===============================================================================
 ABOUT                                                    *vim-jsx-pretty-about*
 
-*vim-jsx-pretty* is highlight and indentation JSX (React.js) syntax.
+*vim-jsx-pretty* is highlight JSX (React.js) syntax.
 
 Dependency Plugin:
   - pangloss/vim-javascript
